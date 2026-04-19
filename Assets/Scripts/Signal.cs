@@ -6,7 +6,7 @@ public class Signal : MonoBehaviour
 {
     public int resources;
     Vector2 dir;
-    [SerializeField] float timeOfLive;
+    [SerializeField] float timeOfLive = 10;
 
     private void Start()
     {
