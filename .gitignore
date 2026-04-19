@@ -1,0 +1,63 @@
+# ========== Unity сгенерированные файлы ==========
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefss
+*.pidb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# ========== OS сгенерированные ==========
+.DS_Store*
+._*
+Thumbs.db
+Desktop.ini
+
+# ========== Пакеты ==========
+/[Pp]ackage[Cc]ache/
+
+# ========== Дополнительные настройки ==========
+# Раскомментируйте если нужно:
+# /[Mm]emoryCaptures/
+# /[Rr]ecordings/
+# sysinfo.txt
+# crashlytics-build.properties
+
+# ========== IDE настройки ==========
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ========== Временные файлы 3D программ ==========
+# Автосохранения и временные файлы
+**/*.blend1
+**/*.blend2
+**/*.max~
+**/*.ma~
+**/*.mb~
+**/*.fbx~
+**/*.obj~
+**/~u*
+**/__pycache__/
+
+# ========== Unity промежуточные файлы ==========
+**/*.asset.meta
+**/*.import
+**/*.bake
+**/Lightmap-*
+**/LightingData.asset
+**/NavMesh.asset
+**/OcclusionCullingData.asset
